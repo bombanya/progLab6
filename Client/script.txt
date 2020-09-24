@@ -1,0 +1,11 @@
+show
+add
+ehbgier
+34
+45
+256453264.23654234
+PUBLIC
+
+WJGF
+history
+execute_script script.txt
