@@ -16,7 +16,7 @@ import java.time.LocalDateTime;
  * Хранит все необходимые для коллекции служебные данные и список доступных комманд.
  */
 
-public class CollectionManager implements Serializable {
+public class CollectionManager{
 
     /** Коллекция объектов типа {@link Organization}*/
     public LinkedList<Organization> collection = new LinkedList<>();

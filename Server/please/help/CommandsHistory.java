@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Хранит последние пять успешно выполненные команды без аргументов.
  */
 
-public class CommandsHistory implements Serializable {
+public class CommandsHistory{
 
     private final ArrayList<String> history = new ArrayList<>();
 

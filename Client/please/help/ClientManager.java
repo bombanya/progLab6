@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Хранит все необходимые для коллекции служебные данные и список доступных комманд.
  */
 
-public class ClientManager implements Serializable {
+public class ClientManager{
 
     private Mode managerMode = Mode.CONSOLE;
     private int currentScriptSkip = 0;
